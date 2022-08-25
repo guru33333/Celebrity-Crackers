@@ -175,6 +175,7 @@ li{list-style-type: none!important;}
 
 @media (min-width:5px) and (max-width:767.98px){
 .pad{padding:40px 0;}
+.icbrd {border: none; height: auto;}
 }
 
 @media (min-width:768px) and (max-width:992.98px){
